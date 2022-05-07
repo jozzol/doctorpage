@@ -58,7 +58,7 @@ const Home = () =>{
                 </div>
             </section>
 
-            <section className="especialista">
+            <section className="especialista" id="especialista">
                 <h1 className="section_title section_title--especialista">Especialista en</h1>
                 <div className="servicios">
                     <div className="servicio">
@@ -236,7 +236,7 @@ const Home = () =>{
 
             </section>
 
-            <section className="contacto">
+            <section className="contacto" id="contacto">
                 <h2 className="section_title section_title--contacto">contacto</h2>
 
                 <div className="card cardcontacto">
@@ -288,12 +288,12 @@ const Home = () =>{
                 </div>
             </section>
 
-            <section className="imagenes">
+            <section className="imagenes" id="imagenes">
                 <h2 className="section_title section_title--imagenes">Imagenes</h2>
                 <img src={mint} alt='certmint'/>
             </section>
 
-            <section className="videos">
+            <section className="videos" id="videos">
                 <h2 className="section_title section_title--video">Videos</h2>
                 <div className="videocontainer">
                     <div className="videoitem">
