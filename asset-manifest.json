@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/doctorpage/static/css/main.cd74620d.css",
-    "main.js": "/doctorpage/static/js/main.d586da57.js",
+    "main.js": "/doctorpage/static/js/main.2371e14d.js",
     "static/media/backperfil.jpg": "/doctorpage/static/media/backperfil.35054db06faf6c2a6b02.jpg",
     "static/media/foto perfil.png": "/doctorpage/static/media/foto perfil.4ffbb3b47a1445f93320.png",
     "static/media/certificado mint.jpeg": "/doctorpage/static/media/certificado mint.6033c805124414412742.jpeg",
     "index.html": "/doctorpage/index.html",
     "main.cd74620d.css.map": "/doctorpage/static/css/main.cd74620d.css.map",
-    "main.d586da57.js.map": "/doctorpage/static/js/main.d586da57.js.map"
+    "main.2371e14d.js.map": "/doctorpage/static/js/main.2371e14d.js.map"
   },
   "entrypoints": [
     "static/css/main.cd74620d.css",
-    "static/js/main.d586da57.js"
+    "static/js/main.2371e14d.js"
   ]
 }
