@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23af104f.css",
+    "main.js": "/static/js/main.e32a8654.js",
+    "static/media/backperfil.jpg": "/static/media/backperfil.35054db06faf6c2a6b02.jpg",
+    "static/media/foto perfil.png": "/static/media/foto perfil.4ffbb3b47a1445f93320.png",
+    "static/media/certificado mint.jpeg": "/static/media/certificado mint.6033c805124414412742.jpeg",
+    "index.html": "/index.html",
+    "main.23af104f.css.map": "/static/css/main.23af104f.css.map",
+    "main.e32a8654.js.map": "/static/js/main.e32a8654.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23af104f.css",
+    "static/js/main.e32a8654.js"
+  ]
+}
