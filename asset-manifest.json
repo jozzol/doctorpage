@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/doctorpage/static/css/main.cd74620d.css",
-    "main.js": "/doctorpage/static/js/main.a4f23f64.js",
+    "main.css": "/doctorpage/static/css/main.2b89a745.css",
+    "main.js": "/doctorpage/static/js/main.4b0c93c8.js",
     "static/media/backperfil.jpg": "/doctorpage/static/media/backperfil.35054db06faf6c2a6b02.jpg",
     "static/media/foto perfil.png": "/doctorpage/static/media/foto perfil.4ffbb3b47a1445f93320.png",
     "static/media/certificado mint.jpeg": "/doctorpage/static/media/certificado mint.6033c805124414412742.jpeg",
     "index.html": "/doctorpage/index.html",
-    "main.cd74620d.css.map": "/doctorpage/static/css/main.cd74620d.css.map",
-    "main.a4f23f64.js.map": "/doctorpage/static/js/main.a4f23f64.js.map"
+    "main.2b89a745.css.map": "/doctorpage/static/css/main.2b89a745.css.map",
+    "main.4b0c93c8.js.map": "/doctorpage/static/js/main.4b0c93c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd74620d.css",
-    "static/js/main.a4f23f64.js"
+    "static/css/main.2b89a745.css",
+    "static/js/main.4b0c93c8.js"
   ]
 }
