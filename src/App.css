@@ -35,12 +35,18 @@
 }
 
 body {
-  background: var(--clr-light);
+  background: var(--clr-dark);
   color: var(--clr-dark);
-  margin:0;
   font-family: var(--ff-primary);
   font-size: var(--fs-body);
   line-height: 1.6;
+  margin:0;
+}
+
+.content{
+  max-width: 1080px; 
+	margin: 0 auto !important; 
+	float: none !important; 
 }
 
 section {
@@ -132,6 +138,7 @@ h3 {
 
 .intro_img{
   min-height: 100%;
+  padding-bottom: 1em;
 }
 
 @media (min-width: 600px){
@@ -150,12 +157,70 @@ h3 {
   }
 }
 
+.introtratameintos{
+  background-color: var(--clr-grey);
+  /* background-image: url(./images/backservices.jpg); */
+  color: var(--clr-dark);
+  text-align: left;
+}
+
+.perfil {
+  background-image: url("../src/imagenes de referencia/backperfil.jpg");
+  color: var(--clr-light);
+  padding-bottom: 0;
+}
+
+.section_title--introperfil{
+  text-align: center;
+}
+
+.section_title--experiencia{
+  color: var(--clr-accent);
+}
+
+.experiencia{
+  background-color: var(--clr-darkblue);
+  color: var(--clr-light);
+  text-align: center;
+}
+
+.section_title--logrosacademicos{
+  color: var(--clr-accent);
+}
+
+.logrosacademicos{
+  background-color: var(--clr-light);
+  color: var(--clr-dark);
+  text-align: center;
+}
+
+.section_title--publicaciones{
+  color: var(--clr-dark);
+}
+
+.publicaciones{
+  background-color: var(--clr-accent);
+  color: var(--clr-light);
+  text-align: center;
+}
+
+.section_title--asociaciones{
+  color: var(--clr-darkblue);
+}
+
+.asociaciones{
+  background-color: var(--clr-grey);
+  color: var(--clr-light);
+  text-align: center;
+}
+
 .porque_altonivel {
   background-color: var(--clr-grey);
   /* background-image: url(./images/backservices.jpg); */
   color: var(--clr-dark);
   text-align: left;
 }
+
 
 .tl-acc{
   color: var(--clr-accent);

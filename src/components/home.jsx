@@ -9,7 +9,7 @@ const Home = () =>{
 
 
     return(
-        <div>
+        <div className="content">
             <section className="intro" id="home">
                 <div className="intro_img">
                     <img src={profile} alt="foto de perfil"/>
@@ -228,7 +228,7 @@ const Home = () =>{
                             <Link className="textlink" to="tratamientodelasojeras">Tratamiento de las Ojeras</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="ultrasonidoHIFU">Ultrasonido HIFU</Link>
+                            <Link className="textlink" to="/ultrasonidoHIFU">Ultrasonido HIFU</Link>
                         </li>
 
                     </ul>

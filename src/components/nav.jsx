@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
 import React, { useState } from "react";
+import { HashLink } from 'react-router-hash-link';
+
 
 const Navbar = () =>{
 
@@ -23,22 +25,22 @@ const Navbar = () =>{
             <nav className="nav">
                 <ul className="nav__list" onClick={closeMenu}>
                     <li className="nav__item">
-                        <a href="#home" className="nav__link">Inicio</a>
+                        <HashLink className="nav__link2" to='/#home'>Inicio</HashLink>
                     </li>
                     <li className="nav_item">
-                        <Link className="nav__link" to="/">Perfil</Link>
+                        <Link className="nav__link" to="/Perfil">Perfil</Link>
                     </li>
                     <li className="nav__item">
-                        <a className="nav__link" href="#especialista">Especilista en</a>
+                        <HashLink className="nav__link" to="/#especialista">Especilista en</HashLink>
                     </li>
                     <li className="nav__item">
-                        <a className="nav__link" href="#imagenes">Imagenes</a>
+                        <HashLink className="nav__link" to="/#imagenes">Imagenes</HashLink>
                     </li>
                     <li className="nav__item">
-                        <a className="nav__link" href="#videos">videos</a>
+                        <HashLink className="nav__link" to="/#videos">videos</HashLink>
                     </li>
                     <li className="nav__item">
-                        <a className="nav__link" href="#contacto">Contacto</a>
+                        <HashLink className="nav__link" to="/#contacto">Contacto</HashLink>
                     </li>
                 </ul>
             </nav>
@@ -48,22 +50,22 @@ const Navbar = () =>{
             <nav className="nav2">
                 <ul className="nav__list2">
                     <li className="nav__item2">
-                        <a href="#home" className="nav__link2">Inicio</a>
+                        <HashLink className="nav__link2" to='/#home'>Inicio</HashLink>
                     </li>
                     <li className="nav__item2">
-                        <Link className="nav__link2" to="/">Perfil</Link>
+                        <HashLink className="nav__link2" to="/Perfil">Perfil</HashLink>
                     </li>
                     <li className="nav__item2">
-                        <a className="nav__link2" href="#especialista">Especilista en</a>
+                        <HashLink className="nav__link2" to="/#especialista">Especilista en</HashLink>
                     </li>
                     <li className="nav__item2">
-                        <a className="nav__link2" href="#imagenes">Imagenes</a>
+                        <HashLink className="nav__link2" to="/#imagenes">Imagenes</HashLink>
                     </li>
                     <li className="nav__item2">
-                        <a className="nav__link2" href="#videos">videos</a>
+                        <HashLink className="nav__link2" to="/#videos">videos</HashLink>
                     </li>
                     <li className="nav__item2">
-                        <a className="nav__link2" href="#contacto">Contacto</a>
+                        <HashLink className="nav__link2" to="#contacto">Contacto</HashLink>
                     </li>
                 </ul>
             </nav>
