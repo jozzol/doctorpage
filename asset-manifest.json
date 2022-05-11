@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/doctorpage/static/css/main.2b89a745.css",
-    "main.js": "/doctorpage/static/js/main.ef112b9a.js",
+    "main.css": "/doctorpage/static/css/main.a850942d.css",
+    "main.js": "/doctorpage/static/js/main.20472a9b.js",
+    "static/media/hilos tensores.png": "/doctorpage/static/media/hilos tensores.eccb35ba2f951fb76119.png",
+    "static/media/acidoHialuronico.png": "/doctorpage/static/media/acidoHialuronico.f85829c332e06e7ade2b.png",
     "static/media/backperfil.jpg": "/doctorpage/static/media/backperfil.35054db06faf6c2a6b02.jpg",
+    "static/media/laserC02.png": "/doctorpage/static/media/laserC02.f710c21bd50316418a83.png",
+    "static/media/rellenofacial.png": "/doctorpage/static/media/rellenofacial.5ed7b7b5ad62e8087e68.png",
+    "static/media/imgacne.png": "/doctorpage/static/media/imgacne.879a73b0fb1073fc8d30.png",
+    "static/media/ojeras.png": "/doctorpage/static/media/ojeras.7dab314439d8f1e5ece5.png",
     "static/media/foto perfil.png": "/doctorpage/static/media/foto perfil.4ffbb3b47a1445f93320.png",
     "static/media/certificado mint.jpeg": "/doctorpage/static/media/certificado mint.6033c805124414412742.jpeg",
     "index.html": "/doctorpage/index.html",
-    "main.2b89a745.css.map": "/doctorpage/static/css/main.2b89a745.css.map",
-    "main.ef112b9a.js.map": "/doctorpage/static/js/main.ef112b9a.js.map"
+    "main.a850942d.css.map": "/doctorpage/static/css/main.a850942d.css.map",
+    "main.20472a9b.js.map": "/doctorpage/static/js/main.20472a9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b89a745.css",
-    "static/js/main.ef112b9a.js"
+    "static/css/main.a850942d.css",
+    "static/js/main.20472a9b.js"
   ]
 }
