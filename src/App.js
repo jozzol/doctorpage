@@ -29,6 +29,7 @@ import RellenoDermico from "./pages/rellenoDermico";
 import RellenosFaciales from "./pages/rellenosFaciales";
 import Rinomodelacion from "./pages/rinomodelacion";
 import Toxinabotulinica from "./pages/toxinaBotulinica";
+import Contacto from "./components/contacto";
 
 function App() {
   return (
@@ -63,14 +64,7 @@ function App() {
         <Route path='/toxinabotulinica' element={<Toxinabotulinica/>}></Route>
         <Route path='/ultrasonidoHIFU' element={<UltrasonidoHIFU/>}></Route>
       </Routes>
-      <a
-        href="https://wa.me/573014616577"
-        class="whatsapp_float"
-        target="_blank"
-        rel="noopener noreferrer"
-        >
-        <i class="fa fa-whatsapp whatsapp-icon"></i>
-        </a>
+      <Contacto/>
     </div>
   );
 }
