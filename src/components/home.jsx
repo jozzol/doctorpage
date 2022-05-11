@@ -82,7 +82,7 @@ const Home = () =>{
                     <div className="servicio">
                         <h3>Perfilado de Labios</h3>
                         <p>¿Qué es ell Perfilado de Labios?  El...</p>
-                        <Link to='/hilostensores'>
+                        <Link to='/perfiladodelabios'>
                             <button className="btn">
                             leer más
                             </button>
@@ -100,7 +100,7 @@ const Home = () =>{
                     <div className="servicio">
                         <h3>Toxina botulínica</h3>
                         <p>Es una neurotoxina hecha por la bacteria llamada Clostridium botulinum. Esta toxina produce botulismo cuando se ingieren alimentos contaminados c...</p>
-                        <Link to='/acidohialuronico'>
+                        <Link to='/toxinabotulinica'>
                             <button className="btn">
                             leer más
                             </button>
@@ -145,7 +145,7 @@ const Home = () =>{
                     <div className="servicio">
                         <h3>Rejuvenecimiento Facial con Láser</h3>
                         <p>Rejuvenecimiento Facial con Láser...</p>
-                        <Link to='/rejuvencecimientofacialconlaser'>
+                        <Link to='/rejuvenecimientofacialconlaser'>
                             <button className="btn">
                             leer más
                             </button>
@@ -165,67 +165,67 @@ const Home = () =>{
                             <Link className="textlink" to="/acidohialuronico">Ácido Hialurónico</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="acne">Acné</Link>
+                            <Link className="textlink" to="/acne">Acné</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="correciondecicatrices">Corrección de Cicatrices</Link>
+                            <Link className="textlink" to="/correciondecicatrices">Corrección de Cicatrices</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="enzimasbiologicas">Enzimas Biológicas</Link>
+                            <Link className="textlink" to="/enzimasbiologicas">Enzimas Biológicas</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="estrias">Estrías</Link>
+                            <Link className="textlink" to="/estrias">Estrías</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="hilostensores">Hilos Tensores</Link>
+                            <Link className="textlink" to="/hilostensores">Hilos Tensores</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="laser">Láser</Link>
+                            <Link className="textlink" to="/laser">Láser</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="laserquirurgicodec02">Láser Quirúrgico de CO2</Link>
+                            <Link className="textlink" to="/laserquirurgicodec02">Láser Quirúrgico de CO2</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="manchasdelapiel">Manchas de la Piel</Link>
+                            <Link className="textlink" to="/manchasdelapiel">Manchas de la Piel</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="medicinabiologica">Medicina Biológica</Link>
+                            <Link className="textlink" to="/medicinabiologica">Medicina Biológica</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="nevusolunares">Nevus o Lunares</Link>
+                            <Link className="textlink" to="/nevusolunares">Nevus o Lunares</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="perfiladodelabios">Perfilado de Labios</Link>
+                            <Link className="textlink" to="/perfiladodelabios">Perfilado de Labios</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="plasmaricoenplaquetas">Plasma Rico en Plaqueta</Link>
+                            <Link className="textlink" to="/plasmaricoenplaquetas">Plasma Rico en Plaqueta</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="rejuvencimientofacial">Rejuvenecimiento Facial</Link>
+                            <Link className="textlink" to="/rejuvencimientofacial">Rejuvenecimiento Facial</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="rejuvenecimientofacialconlaser">Rejuvenecimiento Facial con Láser</Link>
+                            <Link className="textlink" to="/rejuvenecimientofacialconlaser">Rejuvenecimiento Facial con Láser</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="rejuevenecimientofacialintegralsincirugia">Rejuvenecimiento Facial Integral Sin Cirugía</Link>
+                            <Link className="textlink" to="/rejuvenecimientofacialintegralsincirugia">Rejuvenecimiento Facial Integral Sin Cirugía</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="rellenodermico">Relleno Dérmico (Radiesse)</Link>
+                            <Link className="textlink" to="/rellenodermico">Relleno Dérmico (Radiesse)</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="rellenosfaciales">Rellenos Faciales</Link>
+                            <Link className="textlink" to="/rellenosfaciales">Rellenos Faciales</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="toxinabotulinica">Toxina Botulínica (Botox)</Link>
+                            <Link className="textlink" to="/toxinabotulinica">Toxina Botulínica (Botox)</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="tratamientosantienvejecimiento">Tratamiento Antienvejecimiento</Link>
+                            <Link className="textlink" to="/tratamientosantienvejecimiento">Tratamiento Antienvejecimiento</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="tratamientodelacelulitis">Tratamiento de la Celulitis</Link>
+                            <Link className="textlink" to="/tratamientodelacelulitis">Tratamiento de la Celulitis</Link>
                         </li>
                         <li className="otro">
-                            <Link className="textlink" to="tratamientodelasojeras">Tratamiento de las Ojeras</Link>
+                            <Link className="textlink" to="/tratamientodelasojeras">Tratamiento de las Ojeras</Link>
                         </li>
                         <li className="otro">
                             <Link className="textlink" to="/ultrasonidoHIFU">Ultrasonido HIFU</Link>

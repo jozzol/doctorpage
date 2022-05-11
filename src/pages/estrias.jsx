@@ -12,7 +12,7 @@ const Estrias = () =>{
 
         <section className="porque_altonivel">
             <div className="section_title section_title--porque tl-acc">
-                <h2>Perfilado de labios</h2>
+                <h2>Estrias</h2>
             </div>
                 <h3>¿Qué son las Estrías?</h3>
 

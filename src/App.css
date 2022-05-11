@@ -158,9 +158,9 @@ h3 {
 }
 
 .introtratameintos{
-  background-color: var(--clr-grey);
+  background-color: var(--clr-accent);
   /* background-image: url(./images/backservices.jpg); */
-  color: var(--clr-dark);
+  color: var(--clr-light);
   text-align: left;
 }
 
